@@ -8,8 +8,8 @@ const page = `<html>
   </head>
 
   <body>
-    <h1>Why do comedians love !false?</h1>
-    <p>It's funny, because it's true</p>
+    <h1>Why did the programmer quit his job?</h1>
+    <p>Because he didn't get arrays.</p>
   </body>
 </html>`
 
